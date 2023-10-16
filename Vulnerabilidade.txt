@@ -1,0 +1,63 @@
+cidade              
+  Brasilia  = 0        
+  Sao Paulo = 1     
+  Rio de Janeiro = 2    
+  Porto Alegre = 3      
+  Recife = 4  
+  Salvador = 5
+
+pcd (É PCD?)                
+  Sim = 0
+  não = 1
+
+renda  (TEM RENDA BAIXA?)             
+  Sim = 0
+  não = 1         
+
+orientacaoSexual (LGBTQIA+)
+  Sim = 0
+  não = 1
+
+idade      (ACIMA DE 60 ANOS?)         
+  Sim = 0
+  não = 1
+
+curso 
+  Direito = 0                
+  Engenharia Civil = 1         
+  Ciencia da Computacao = 2     
+  Administracao = 3 
+  Medicina = 4         
+
+experiencia   (TEM EXPERIENCIA DE TRABALHO)      
+  Sim = 0
+  não = 1
+
+lingua              
+  portugues = 0 
+  ingles = 1
+  espanhol = 2  
+  frances = 3
+  mandarim = 4  
+
+modalidade
+  presencial = 0       
+  EaD = 1    
+  semipresencial = 2 
+
+
+raca
+  0 = Branco
+  1 = Preto
+  2 = Pardo
+  3 = Indigena
+  4 = Amarelo
+
+Genero
+  0 = não-binário
+  1 = Masculino
+  2 = Feminino
+
+Vulnerabilidade
+  Sim = 0
+  Não = 1

@@ -1,0 +1,500 @@
+Salvador,Não,Não,2,1,Sim,Não,Direito,Sim,ingles,semipresencial,Sim
+Porto Alegre,Sim,Não,1,0,Sim,Sim,Medicina,Sim,espanhol,semipresencial,Sim
+Sao Paulo,Não,Não,0,0,Não,Sim,Direito,Não,frances,EaD,Não
+Porto Alegre,Não,Sim,1,2,Não,Não,Direito,Não,frances,semipresencial,Sim
+Porto Alegre,Não,Não,2,1,Não,Sim,Administracao,Sim,espanhol,EaD,Não
+Rio de Janeiro,Não,Sim,2,0,Sim,Não,Engenharia Civil,Sim,frances,semipresencial,Sim
+Salvador,Sim,Sim,1,2,Sim,Não,Ciencia da Computacao,Não,espanhol,presencial,Não
+Salvador,Não,Sim,4,1,Sim,Sim,Medicina,Não,mandarim,presencial,Sim
+Brasilia,Não,Sim,1,1,Não,Sim,Administracao,Não,portugues,presencial,Sim
+Porto Alegre,Sim,Sim,0,2,Não,Não,Medicina,Não,portugues,EaD,Sim
+Porto Alegre,Não,Não,1,2,Não,Sim,Engenharia Civil,Não,espanhol,presencial,Sim
+Brasilia,Sim,Não,3,0,Sim,Não,Direito,Sim,ingles,presencial,Não
+Sao Paulo,Sim,Sim,3,1,Não,Sim,Ciencia da Computacao,Sim,mandarim,presencial,Sim
+Porto Alegre,Não,Não,4,2,Não,Sim,Direito,Não,ingles,EaD,Sim
+Porto Alegre,Sim,Não,0,0,Sim,Não,Ciencia da Computacao,Não,portugues,EaD,Sim
+Sao Paulo,Não,Não,2,1,Não,Sim,Medicina,Não,mandarim,EaD,Não
+Rio de Janeiro,Sim,Não,1,1,Não,Não,Engenharia Civil,Não,ingles,presencial,Não
+Sao Paulo,Não,Sim,1,2,Não,Não,Medicina,Não,portugues,semipresencial,Não
+Recife,Não,Não,1,2,Sim,Sim,Engenharia Civil,Não,mandarim,presencial,Sim
+Brasilia,Sim,Sim,1,2,Sim,Sim,Administracao,Sim,portugues,semipresencial,Sim
+Porto Alegre,Não,Não,2,0,Não,Sim,Medicina,Sim,mandarim,presencial,Não
+Porto Alegre,Não,Não,0,2,Sim,Sim,Direito,Sim,mandarim,semipresencial,Sim
+Porto Alegre,Sim,Não,2,1,Não,Sim,Ciencia da Computacao,Sim,mandarim,semipresencial,Não
+Salvador,Não,Sim,4,2,Não,Não,Medicina,Sim,portugues,presencial,Não
+Recife,Sim,Sim,0,2,Sim,Sim,Medicina,Sim,portugues,EaD,Não
+Brasilia,Não,Sim,1,0,Não,Não,Direito,Sim,ingles,EaD,Não
+Porto Alegre,Não,Sim,1,2,Sim,Sim,Direito,Sim,frances,EaD,Sim
+Sao Paulo,Não,Não,3,2,Sim,Sim,Direito,Sim,frances,presencial,Não
+Sao Paulo,Sim,Não,0,1,Não,Não,Medicina,Sim,espanhol,EaD,Sim
+Porto Alegre,Sim,Sim,2,1,Sim,Não,Ciencia da Computacao,Não,ingles,presencial,Não
+Porto Alegre,Não,Não,0,1,Sim,Não,Administracao,Não,frances,presencial,Sim
+Salvador,Não,Não,4,0,Não,Sim,Administracao,Não,frances,EaD,Sim
+Salvador,Sim,Não,0,2,Sim,Sim,Direito,Sim,portugues,EaD,Sim
+Porto Alegre,Não,Sim,3,2,Não,Não,Direito,Sim,ingles,semipresencial,Não
+Recife,Não,Não,0,1,Sim,Sim,Medicina,Sim,frances,EaD,Sim
+Brasilia,Não,Sim,2,2,Sim,Não,Administracao,Não,mandarim,semipresencial,Não
+Recife,Não,Sim,4,2,Sim,Sim,Medicina,Não,espanhol,semipresencial,Não
+Brasilia,Sim,Não,0,1,Não,Sim,Ciencia da Computacao,Não,portugues,EaD,Sim
+Porto Alegre,Não,Sim,0,2,Sim,Sim,Engenharia Civil,Não,ingles,presencial,Sim
+Porto Alegre,Não,Sim,4,0,Sim,Sim,Administracao,Não,espanhol,presencial,Sim
+Salvador,Não,Não,1,0,Sim,Não,Administracao,Não,espanhol,presencial,Não
+Sao Paulo,Sim,Sim,2,2,Não,Sim,Medicina,Sim,frances,EaD,Não
+Sao Paulo,Não,Sim,1,1,Sim,Não,Direito,Sim,portugues,EaD,Sim
+Recife,Sim,Não,1,1,Não,Não,Administracao,Não,mandarim,EaD,Não
+Porto Alegre,Não,Sim,2,2,Não,Sim,Administracao,Não,frances,semipresencial,Não
+Brasilia,Não,Sim,4,2,Sim,Não,Ciencia da Computacao,Sim,mandarim,presencial,Sim
+Sao Paulo,Sim,Sim,3,2,Não,Não,Administracao,Sim,frances,presencial,Não
+Porto Alegre,Não,Não,3,1,Sim,Sim,Engenharia Civil,Não,frances,semipresencial,Não
+Salvador,Não,Sim,3,2,Sim,Não,Medicina,Não,portugues,semipresencial,Não
+Recife,Sim,Sim,0,1,Sim,Sim,Administracao,Não,frances,EaD,Sim
+Brasilia,Sim,Não,0,2,Não,Sim,Ciencia da Computacao,Não,ingles,presencial,Sim
+Recife,Não,Não,4,1,Sim,Sim,Ciencia da Computacao,Sim,mandarim,EaD,Não
+Brasilia,Não,Sim,0,1,Sim,Sim,Ciencia da Computacao,Não,espanhol,presencial,Sim
+Brasilia,Sim,Sim,2,0,Não,Sim,Ciencia da Computacao,Não,ingles,presencial,Sim
+Brasilia,Sim,Não,1,0,Não,Sim,Medicina,Não,ingles,EaD,Não
+Salvador,Sim,Não,0,1,Sim,Sim,Administracao,Sim,ingles,EaD,Não
+Recife,Não,Não,4,0,Sim,Não,Medicina,Sim,espanhol,EaD,Sim
+Brasilia,Sim,Não,1,2,Sim,Não,Medicina,Não,frances,presencial,Não
+Rio de Janeiro,Não,Sim,1,2,Sim,Sim,Direito,Sim,espanhol,presencial,Sim
+Porto Alegre,Sim,Não,4,2,Sim,Sim,Engenharia Civil,Não,frances,EaD,Não
+Sao Paulo,Não,Não,0,0,Não,Não,Engenharia Civil,Sim,ingles,presencial,Não
+Sao Paulo,Sim,Não,1,2,Não,Sim,Direito,Sim,espanhol,EaD,Não
+Salvador,Sim,Sim,1,2,Sim,Não,Engenharia Civil,Não,portugues,semipresencial,Sim
+Recife,Não,Não,2,1,Não,Não,Engenharia Civil,Não,ingles,EaD,Sim
+Rio de Janeiro,Sim,Não,1,2,Sim,Sim,Ciencia da Computacao,Não,portugues,presencial,Não
+Porto Alegre,Sim,Sim,2,1,Sim,Sim,Engenharia Civil,Sim,portugues,presencial,Sim
+Rio de Janeiro,Não,Não,1,0,Não,Sim,Medicina,Não,mandarim,presencial,Sim
+Porto Alegre,Sim,Não,4,1,Não,Não,Administracao,Não,frances,EaD,Não
+Rio de Janeiro,Sim,Não,4,2,Sim,Sim,Direito,Sim,mandarim,presencial,Sim
+Recife,Não,Não,2,0,Não,Não,Administracao,Não,mandarim,presencial,Sim
+Sao Paulo,Sim,Não,3,2,Não,Sim,Engenharia Civil,Sim,espanhol,presencial,Não
+Brasilia,Sim,Não,4,1,Não,Sim,Direito,Sim,mandarim,presencial,Sim
+Sao Paulo,Não,Não,0,0,Não,Sim,Direito,Não,espanhol,presencial,Sim
+Sao Paulo,Não,Sim,2,2,Não,Não,Administracao,Sim,espanhol,EaD,Sim
+Porto Alegre,Sim,Sim,3,2,Sim,Sim,Engenharia Civil,Sim,frances,semipresencial,Sim
+Brasilia,Não,Sim,0,1,Sim,Sim,Engenharia Civil,Não,espanhol,EaD,Não
+Recife,Sim,Não,4,2,Sim,Sim,Engenharia Civil,Não,espanhol,semipresencial,Sim
+Salvador,Sim,Sim,1,2,Sim,Sim,Administracao,Sim,frances,semipresencial,Não
+Rio de Janeiro,Não,Sim,0,2,Não,Sim,Direito,Não,ingles,EaD,Sim
+Salvador,Sim,Não,1,1,Sim,Não,Medicina,Sim,espanhol,semipresencial,Sim
+Porto Alegre,Não,Sim,2,1,Sim,Sim,Medicina,Não,mandarim,presencial,Sim
+Salvador,Não,Não,3,2,Não,Sim,Engenharia Civil,Não,portugues,EaD,Não
+Salvador,Sim,Não,0,0,Não,Não,Engenharia Civil,Não,portugues,presencial,Sim
+Sao Paulo,Sim,Sim,4,2,Sim,Não,Engenharia Civil,Sim,portugues,EaD,Não
+Sao Paulo,Não,Não,0,0,Não,Sim,Engenharia Civil,Sim,ingles,semipresencial,Não
+Porto Alegre,Não,Sim,1,2,Não,Sim,Ciencia da Computacao,Não,espanhol,presencial,Sim
+Rio de Janeiro,Sim,Sim,3,0,Não,Sim,Engenharia Civil,Sim,frances,semipresencial,Sim
+Rio de Janeiro,Não,Sim,1,0,Não,Não,Administracao,Sim,portugues,EaD,Sim
+Salvador,Sim,Sim,1,0,Sim,Não,Medicina,Sim,espanhol,presencial,Sim
+Porto Alegre,Não,Não,0,0,Não,Não,Ciencia da Computacao,Não,mandarim,presencial,Não
+Brasilia,Sim,Não,0,1,Não,Não,Administracao,Não,portugues,EaD,Sim
+Salvador,Não,Sim,0,0,Sim,Sim,Administracao,Não,espanhol,EaD,Não
+Salvador,Sim,Não,3,1,Sim,Sim,Direito,Não,espanhol,semipresencial,Não
+Porto Alegre,Sim,Não,3,0,Sim,Não,Direito,Não,mandarim,EaD,Não
+Brasilia,Não,Sim,3,0,Sim,Não,Medicina,Sim,espanhol,semipresencial,Não
+Porto Alegre,Não,Sim,1,1,Sim,Não,Administracao,Não,espanhol,EaD,Não
+Salvador,Não,Sim,0,0,Sim,Sim,Ciencia da Computacao,Sim,mandarim,EaD,Sim
+Porto Alegre,Sim,Não,1,2,Não,Não,Engenharia Civil,Sim,espanhol,EaD,Não
+Porto Alegre,Não,Sim,3,0,Não,Não,Ciencia da Computacao,Sim,portugues,EaD,Não
+Salvador,Sim,Não,1,0,Sim,Sim,Administracao,Não,ingles,presencial,Não
+Sao Paulo,Não,Não,0,1,Sim,Sim,Ciencia da Computacao,Sim,portugues,presencial,Não
+Recife,Sim,Sim,4,0,Sim,Sim,Direito,Não,espanhol,presencial,Sim
+Recife,Sim,Não,2,2,Sim,Sim,Direito,Sim,frances,presencial,Sim
+Porto Alegre,Sim,Não,4,1,Não,Sim,Engenharia Civil,Sim,portugues,semipresencial,Sim
+Recife,Sim,Não,0,1,Não,Não,Engenharia Civil,Sim,ingles,EaD,Sim
+Porto Alegre,Não,Não,0,1,Não,Não,Direito,Sim,espanhol,presencial,Não
+Sao Paulo,Não,Não,2,0,Sim,Não,Ciencia da Computacao,Não,espanhol,EaD,Não
+Salvador,Sim,Sim,0,1,Sim,Não,Medicina,Sim,frances,EaD,Sim
+Brasilia,Não,Não,3,2,Não,Sim,Ciencia da Computacao,Não,portugues,semipresencial,Não
+Recife,Não,Não,3,1,Não,Não,Direito,Sim,espanhol,semipresencial,Sim
+Rio de Janeiro,Não,Sim,0,0,Sim,Sim,Ciencia da Computacao,Sim,ingles,EaD,Não
+Sao Paulo,Sim,Sim,3,2,Sim,Sim,Medicina,Não,espanhol,presencial,Não
+Sao Paulo,Sim,Não,3,0,Não,Não,Administracao,Não,portugues,semipresencial,Não
+Recife,Sim,Sim,2,2,Não,Não,Direito,Sim,mandarim,presencial,Não
+Recife,Não,Sim,2,0,Sim,Não,Ciencia da Computacao,Não,frances,semipresencial,Não
+Brasilia,Não,Não,4,1,Não,Não,Direito,Não,frances,presencial,Sim
+Rio de Janeiro,Sim,Não,4,1,Sim,Sim,Administracao,Não,mandarim,EaD,Não
+Sao Paulo,Não,Sim,0,0,Sim,Sim,Medicina,Sim,frances,semipresencial,Não
+Brasilia,Não,Não,1,2,Sim,Sim,Medicina,Sim,ingles,EaD,Sim
+Porto Alegre,Não,Sim,4,1,Sim,Sim,Administracao,Não,portugues,semipresencial,Sim
+Brasilia,Sim,Não,1,0,Não,Não,Engenharia Civil,Não,ingles,semipresencial,Sim
+Sao Paulo,Sim,Não,2,2,Não,Sim,Ciencia da Computacao,Não,portugues,semipresencial,Não
+Salvador,Não,Não,2,2,Não,Não,Engenharia Civil,Sim,portugues,semipresencial,Sim
+Salvador,Sim,Sim,1,1,Não,Não,Medicina,Sim,portugues,EaD,Sim
+Sao Paulo,Não,Não,0,2,Não,Sim,Engenharia Civil,Não,espanhol,semipresencial,Não
+Recife,Não,Sim,4,1,Sim,Não,Engenharia Civil,Sim,frances,semipresencial,Não
+Salvador,Sim,Não,3,1,Sim,Não,Medicina,Não,espanhol,EaD,Não
+Brasilia,Não,Não,0,0,Não,Não,Engenharia Civil,Não,espanhol,semipresencial,Não
+Sao Paulo,Não,Não,0,1,Sim,Sim,Direito,Não,portugues,semipresencial,Sim
+Salvador,Sim,Não,2,1,Não,Não,Administracao,Sim,ingles,EaD,Sim
+Recife,Não,Sim,4,1,Não,Não,Engenharia Civil,Sim,espanhol,presencial,Não
+Recife,Não,Sim,4,2,Não,Não,Medicina,Não,espanhol,EaD,Não
+Salvador,Não,Não,2,2,Sim,Sim,Administracao,Não,frances,presencial,Sim
+Recife,Sim,Sim,0,0,Não,Não,Administracao,Sim,frances,semipresencial,Não
+Brasilia,Não,Sim,2,1,Sim,Sim,Administracao,Não,espanhol,presencial,Sim
+Brasilia,Sim,Não,0,0,Não,Sim,Direito,Sim,ingles,EaD,Sim
+Porto Alegre,Sim,Não,0,2,Não,Sim,Medicina,Não,mandarim,presencial,Não
+Brasilia,Sim,Sim,0,0,Não,Sim,Medicina,Sim,frances,EaD,Sim
+Recife,Sim,Não,1,1,Sim,Não,Ciencia da Computacao,Sim,ingles,EaD,Sim
+Brasilia,Sim,Sim,1,1,Não,Não,Direito,Não,espanhol,presencial,Sim
+Sao Paulo,Sim,Sim,3,0,Sim,Não,Medicina,Não,mandarim,presencial,Não
+Brasilia,Não,Sim,1,1,Não,Sim,Engenharia Civil,Sim,portugues,EaD,Sim
+Sao Paulo,Sim,Não,1,0,Sim,Sim,Engenharia Civil,Não,portugues,EaD,Não
+Sao Paulo,Sim,Sim,0,0,Não,Não,Ciencia da Computacao,Sim,frances,EaD,Sim
+Brasilia,Sim,Sim,2,0,Sim,Sim,Administracao,Sim,frances,semipresencial,Sim
+Salvador,Sim,Sim,0,1,Não,Não,Ciencia da Computacao,Não,mandarim,EaD,Sim
+Porto Alegre,Não,Sim,0,2,Sim,Sim,Medicina,Não,espanhol,semipresencial,Sim
+Sao Paulo,Não,Sim,0,1,Não,Sim,Engenharia Civil,Sim,frances,semipresencial,Não
+Sao Paulo,Não,Não,0,2,Não,Não,Administracao,Sim,portugues,presencial,Sim
+Brasilia,Não,Sim,4,0,Não,Não,Direito,Não,frances,presencial,Sim
+Recife,Não,Não,2,1,Sim,Não,Ciencia da Computacao,Não,frances,presencial,Sim
+Brasilia,Sim,Não,0,0,Não,Sim,Direito,Não,espanhol,presencial,Não
+Rio de Janeiro,Sim,Sim,3,2,Não,Não,Direito,Não,portugues,presencial,Sim
+Porto Alegre,Sim,Sim,1,1,Sim,Sim,Engenharia Civil,Não,espanhol,semipresencial,Sim
+Sao Paulo,Não,Não,3,1,Sim,Sim,Engenharia Civil,Não,ingles,semipresencial,Não
+Porto Alegre,Sim,Não,1,0,Não,Não,Administracao,Sim,portugues,EaD,Não
+Brasilia,Não,Sim,0,1,Não,Não,Administracao,Não,espanhol,semipresencial,Não
+Recife,Sim,Não,1,2,Sim,Sim,Engenharia Civil,Sim,ingles,semipresencial,Sim
+Sao Paulo,Sim,Sim,4,2,Sim,Sim,Engenharia Civil,Não,portugues,semipresencial,Não
+Salvador,Não,Não,2,2,Sim,Sim,Medicina,Sim,mandarim,semipresencial,Sim
+Porto Alegre,Sim,Não,0,2,Sim,Não,Medicina,Sim,espanhol,semipresencial,Sim
+Salvador,Não,Não,3,2,Não,Sim,Administracao,Sim,portugues,semipresencial,Não
+Rio de Janeiro,Não,Não,3,2,Sim,Sim,Engenharia Civil,Não,mandarim,presencial,Não
+Salvador,Não,Sim,1,1,Sim,Não,Administracao,Não,ingles,semipresencial,Não
+Porto Alegre,Não,Sim,3,2,Não,Não,Medicina,Sim,portugues,semipresencial,Sim
+Salvador,Sim,Sim,4,1,Não,Não,Medicina,Não,frances,EaD,Sim
+Salvador,Não,Não,0,0,Não,Não,Administracao,Sim,ingles,semipresencial,Sim
+Brasilia,Não,Não,4,2,Sim,Não,Engenharia Civil,Sim,portugues,semipresencial,Sim
+Sao Paulo,Não,Sim,1,1,Sim,Não,Engenharia Civil,Não,frances,semipresencial,Não
+Recife,Não,Não,1,0,Não,Não,Engenharia Civil,Sim,frances,EaD,Sim
+Recife,Não,Não,2,1,Sim,Sim,Direito,Não,mandarim,semipresencial,Não
+Porto Alegre,Não,Não,2,2,Não,Sim,Administracao,Não,frances,EaD,Sim
+Brasilia,Sim,Sim,4,1,Sim,Sim,Direito,Não,ingles,presencial,Não
+Brasilia,Não,Sim,4,2,Sim,Não,Medicina,Sim,frances,presencial,Sim
+Sao Paulo,Não,Não,4,1,Sim,Não,Direito,Sim,ingles,semipresencial,Não
+Porto Alegre,Não,Sim,3,1,Sim,Não,Medicina,Sim,portugues,semipresencial,Sim
+Rio de Janeiro,Não,Não,4,0,Sim,Não,Ciencia da Computacao,Sim,ingles,EaD,Sim
+Brasilia,Não,Não,1,2,Não,Sim,Ciencia da Computacao,Não,frances,EaD,Sim
+Salvador,Sim,Não,4,1,Sim,Sim,Engenharia Civil,Não,mandarim,semipresencial,Sim
+Recife,Não,Sim,2,1,Sim,Não,Medicina,Sim,espanhol,presencial,Não
+Porto Alegre,Sim,Sim,4,1,Não,Sim,Medicina,Sim,portugues,presencial,Não
+Sao Paulo,Não,Não,1,2,Não,Sim,Engenharia Civil,Sim,espanhol,presencial,Não
+Sao Paulo,Sim,Sim,4,0,Sim,Não,Medicina,Não,portugues,semipresencial,Sim
+Rio de Janeiro,Sim,Não,4,2,Sim,Sim,Ciencia da Computacao,Não,ingles,presencial,Não
+Sao Paulo,Não,Sim,0,0,Sim,Não,Ciencia da Computacao,Não,espanhol,semipresencial,Não
+Sao Paulo,Sim,Não,0,0,Sim,Sim,Medicina,Não,espanhol,semipresencial,Não
+Recife,Não,Sim,1,0,Não,Sim,Medicina,Não,espanhol,presencial,Sim
+Brasilia,Sim,Sim,1,1,Sim,Não,Engenharia Civil,Sim,frances,EaD,Não
+Salvador,Sim,Sim,0,0,Não,Não,Ciencia da Computacao,Sim,frances,presencial,Não
+Sao Paulo,Sim,Sim,0,2,Sim,Sim,Direito,Não,portugues,presencial,Sim
+Porto Alegre,Sim,Não,0,0,Não,Não,Direito,Sim,frances,semipresencial,Não
+Sao Paulo,Não,Não,0,0,Não,Não,Engenharia Civil,Não,frances,presencial,Não
+Salvador,Sim,Não,2,1,Sim,Não,Administracao,Sim,ingles,presencial,Sim
+Brasilia,Não,Sim,1,2,Não,Não,Administracao,Sim,portugues,EaD,Sim
+Porto Alegre,Não,Sim,3,0,Sim,Sim,Engenharia Civil,Não,espanhol,semipresencial,Sim
+Recife,Sim,Não,0,1,Não,Não,Direito,Sim,espanhol,semipresencial,Sim
+Sao Paulo,Sim,Sim,4,2,Sim,Não,Direito,Sim,espanhol,EaD,Sim
+Brasilia,Sim,Não,2,0,Sim,Sim,Direito,Não,ingles,presencial,Não
+Recife,Sim,Sim,0,2,Sim,Não,Administracao,Sim,portugues,presencial,Não
+Rio de Janeiro,Não,Sim,2,1,Não,Sim,Medicina,Não,frances,EaD,Sim
+Salvador,Não,Sim,0,0,Não,Sim,Ciencia da Computacao,Não,frances,presencial,Sim
+Salvador,Sim,Não,3,0,Sim,Sim,Engenharia Civil,Não,portugues,EaD,Não
+Recife,Não,Sim,2,1,Não,Não,Ciencia da Computacao,Sim,espanhol,EaD,Sim
+Rio de Janeiro,Não,Sim,2,2,Sim,Sim,Engenharia Civil,Não,mandarim,EaD,Não
+Salvador,Não,Não,2,2,Não,Sim,Direito,Não,mandarim,semipresencial,Não
+Porto Alegre,Não,Sim,3,1,Não,Sim,Ciencia da Computacao,Não,ingles,presencial,Sim
+Salvador,Sim,Sim,2,1,Sim,Sim,Direito,Sim,espanhol,semipresencial,Sim
+Porto Alegre,Não,Sim,4,1,Não,Não,Administracao,Sim,mandarim,EaD,Sim
+Recife,Sim,Não,0,0,Não,Sim,Administracao,Sim,espanhol,EaD,Sim
+Sao Paulo,Sim,Sim,3,2,Não,Não,Administracao,Não,portugues,EaD,Não
+Porto Alegre,Não,Não,0,0,Sim,Não,Medicina,Sim,espanhol,EaD,Não
+Salvador,Não,Sim,3,2,Não,Não,Engenharia Civil,Não,mandarim,semipresencial,Sim
+Recife,Sim,Sim,1,1,Sim,Sim,Direito,Sim,mandarim,EaD,Sim
+Porto Alegre,Sim,Não,2,0,Não,Não,Direito,Não,frances,EaD,Sim
+Sao Paulo,Sim,Não,3,1,Não,Não,Direito,Não,mandarim,presencial,Sim
+Salvador,Sim,Não,0,1,Sim,Sim,Administracao,Não,ingles,EaD,Não
+Recife,Não,Sim,2,2,Não,Sim,Engenharia Civil,Não,frances,semipresencial,Não
+Porto Alegre,Não,Sim,3,1,Não,Não,Engenharia Civil,Sim,portugues,semipresencial,Sim
+Salvador,Sim,Sim,3,0,Não,Não,Engenharia Civil,Não,espanhol,EaD,Sim
+Recife,Não,Sim,3,1,Não,Sim,Engenharia Civil,Sim,mandarim,presencial,Sim
+Sao Paulo,Não,Não,0,1,Sim,Sim,Administracao,Sim,mandarim,presencial,Não
+Recife,Sim,Sim,3,1,Não,Sim,Ciencia da Computacao,Não,portugues,presencial,Não
+Rio de Janeiro,Sim,Não,4,0,Sim,Sim,Ciencia da Computacao,Não,ingles,EaD,Sim
+Salvador,Não,Não,0,0,Sim,Não,Engenharia Civil,Não,mandarim,EaD,Não
+Recife,Sim,Não,0,1,Sim,Sim,Engenharia Civil,Sim,espanhol,EaD,Não
+Brasilia,Sim,Sim,1,1,Sim,Sim,Ciencia da Computacao,Não,mandarim,semipresencial,Não
+Salvador,Não,Não,3,0,Sim,Sim,Medicina,Sim,frances,presencial,Sim
+Recife,Não,Não,0,2,Sim,Sim,Administracao,Não,frances,presencial,Não
+Salvador,Sim,Não,0,0,Não,Sim,Ciencia da Computacao,Sim,espanhol,EaD,Não
+Recife,Sim,Sim,2,0,Sim,Não,Engenharia Civil,Sim,ingles,EaD,Não
+Brasilia,Não,Não,1,0,Sim,Não,Ciencia da Computacao,Não,mandarim,EaD,Sim
+Sao Paulo,Não,Não,2,2,Não,Sim,Engenharia Civil,Sim,mandarim,EaD,Sim
+Sao Paulo,Não,Não,3,2,Não,Sim,Ciencia da Computacao,Sim,portugues,semipresencial,Sim
+Salvador,Sim,Sim,0,0,Não,Sim,Medicina,Sim,frances,EaD,Não
+Recife,Não,Sim,3,1,Sim,Sim,Ciencia da Computacao,Sim,ingles,semipresencial,Não
+Rio de Janeiro,Sim,Sim,2,0,Sim,Não,Engenharia Civil,Não,frances,presencial,Sim
+Salvador,Sim,Não,0,1,Não,Sim,Medicina,Sim,frances,semipresencial,Sim
+Porto Alegre,Não,Sim,0,2,Sim,Sim,Ciencia da Computacao,Não,portugues,presencial,Sim
+Brasilia,Não,Sim,2,2,Não,Não,Ciencia da Computacao,Sim,ingles,EaD,Sim
+Recife,Sim,Sim,1,1,Sim,Não,Direito,Sim,portugues,semipresencial,Não
+Rio de Janeiro,Não,Não,0,1,Sim,Sim,Direito,Sim,ingles,semipresencial,Sim
+Porto Alegre,Não,Sim,3,1,Sim,Não,Ciencia da Computacao,Não,mandarim,EaD,Não
+Salvador,Sim,Sim,4,1,Sim,Sim,Ciencia da Computacao,Sim,ingles,presencial,Não
+Brasilia,Não,Sim,0,2,Sim,Sim,Engenharia Civil,Não,frances,presencial,Não
+Recife,Sim,Não,1,2,Sim,Sim,Ciencia da Computacao,Sim,ingles,presencial,Sim
+Salvador,Sim,Não,0,1,Não,Sim,Medicina,Não,portugues,presencial,Não
+Recife,Sim,Sim,4,2,Não,Sim,Ciencia da Computacao,Não,portugues,presencial,Não
+Brasilia,Sim,Sim,0,1,Não,Não,Engenharia Civil,Não,espanhol,EaD,Não
+Salvador,Não,Sim,4,0,Não,Não,Medicina,Não,portugues,semipresencial,Não
+Rio de Janeiro,Sim,Não,0,1,Sim,Não,Ciencia da Computacao,Sim,espanhol,EaD,Não
+Brasilia,Sim,Não,2,2,Sim,Não,Ciencia da Computacao,Sim,espanhol,semipresencial,Não
+Sao Paulo,Não,Não,4,2,Sim,Sim,Medicina,Não,mandarim,presencial,Não
+Rio de Janeiro,Não,Não,1,1,Não,Sim,Engenharia Civil,Não,mandarim,presencial,Não
+Porto Alegre,Não,Sim,1,0,Sim,Não,Engenharia Civil,Sim,ingles,presencial,Não
+Porto Alegre,Não,Não,2,1,Sim,Não,Direito,Sim,ingles,presencial,Não
+Rio de Janeiro,Não,Não,2,1,Não,Sim,Engenharia Civil,Não,mandarim,EaD,Sim
+Sao Paulo,Sim,Não,3,0,Sim,Sim,Administracao,Não,mandarim,presencial,Não
+Brasilia,Não,Não,1,2,Não,Sim,Direito,Não,mandarim,EaD,Sim
+Rio de Janeiro,Não,Sim,0,2,Sim,Sim,Engenharia Civil,Sim,frances,semipresencial,Não
+Sao Paulo,Sim,Não,1,0,Sim,Sim,Engenharia Civil,Sim,portugues,semipresencial,Não
+Recife,Sim,Não,2,0,Não,Sim,Ciencia da Computacao,Não,portugues,presencial,Sim
+Salvador,Sim,Sim,1,2,Sim,Sim,Medicina,Não,mandarim,EaD,Sim
+Rio de Janeiro,Sim,Não,3,1,Sim,Não,Direito,Não,frances,semipresencial,Sim
+Rio de Janeiro,Sim,Não,2,1,Sim,Sim,Medicina,Sim,ingles,EaD,Sim
+Salvador,Sim,Não,1,0,Não,Sim,Engenharia Civil,Sim,portugues,presencial,Sim
+Porto Alegre,Não,Não,3,1,Não,Sim,Direito,Sim,frances,semipresencial,Não
+Sao Paulo,Não,Sim,1,2,Sim,Sim,Ciencia da Computacao,Sim,mandarim,presencial,Sim
+Recife,Sim,Sim,0,2,Sim,Não,Administracao,Sim,frances,presencial,Não
+Sao Paulo,Não,Não,4,1,Sim,Sim,Medicina,Sim,ingles,presencial,Não
+Rio de Janeiro,Sim,Não,2,0,Sim,Não,Ciencia da Computacao,Não,mandarim,EaD,Sim
+Sao Paulo,Sim,Sim,2,2,Não,Sim,Ciencia da Computacao,Não,portugues,semipresencial,Não
+Salvador,Não,Não,4,1,Sim,Sim,Direito,Sim,portugues,EaD,Sim
+Sao Paulo,Sim,Sim,1,2,Sim,Não,Direito,Sim,espanhol,presencial,Sim
+Recife,Não,Não,4,1,Não,Não,Administracao,Sim,ingles,EaD,Não
+Recife,Sim,Não,1,1,Não,Sim,Medicina,Sim,mandarim,semipresencial,Sim
+Sao Paulo,Não,Sim,4,2,Não,Não,Ciencia da Computacao,Não,mandarim,semipresencial,Não
+Recife,Não,Sim,3,0,Não,Não,Administracao,Sim,mandarim,presencial,Não
+Salvador,Não,Sim,2,0,Sim,Sim,Administracao,Não,portugues,presencial,Sim
+Salvador,Sim,Não,3,1,Não,Sim,Ciencia da Computacao,Não,ingles,EaD,Sim
+Porto Alegre,Sim,Não,4,1,Sim,Não,Administracao,Não,portugues,semipresencial,Sim
+Salvador,Não,Não,2,2,Não,Não,Medicina,Não,frances,EaD,Sim
+Rio de Janeiro,Sim,Sim,3,1,Não,Sim,Engenharia Civil,Não,portugues,semipresencial,Não
+Rio de Janeiro,Sim,Sim,1,1,Não,Não,Ciencia da Computacao,Não,mandarim,semipresencial,Não
+Salvador,Sim,Não,2,0,Sim,Sim,Administracao,Não,frances,semipresencial,Sim
+Porto Alegre,Sim,Não,2,0,Não,Não,Engenharia Civil,Não,ingles,semipresencial,Sim
+Brasilia,Sim,Não,0,1,Não,Não,Ciencia da Computacao,Não,ingles,semipresencial,Não
+Porto Alegre,Não,Sim,1,0,Sim,Sim,Medicina,Não,portugues,EaD,Não
+Porto Alegre,Não,Sim,1,0,Não,Sim,Medicina,Não,frances,presencial,Não
+Sao Paulo,Não,Sim,1,1,Sim,Não,Administracao,Não,frances,EaD,Sim
+Porto Alegre,Sim,Sim,1,0,Não,Não,Administracao,Não,espanhol,presencial,Não
+Brasilia,Não,Não,0,1,Sim,Não,Direito,Sim,espanhol,EaD,Não
+Brasilia,Sim,Sim,1,1,Não,Sim,Ciencia da Computacao,Não,portugues,EaD,Não
+Brasilia,Sim,Sim,3,2,Sim,Não,Medicina,Não,portugues,presencial,Não
+Sao Paulo,Não,Sim,3,1,Sim,Não,Ciencia da Computacao,Sim,portugues,EaD,Sim
+Porto Alegre,Não,Sim,0,2,Sim,Sim,Administracao,Sim,mandarim,EaD,Não
+Sao Paulo,Sim,Sim,4,2,Sim,Sim,Ciencia da Computacao,Não,espanhol,EaD,Sim
+Brasilia,Sim,Não,3,1,Não,Não,Medicina,Sim,mandarim,presencial,Não
+Salvador,Sim,Sim,1,0,Sim,Sim,Engenharia Civil,Não,portugues,semipresencial,Sim
+Porto Alegre,Não,Não,2,2,Sim,Sim,Medicina,Sim,ingles,EaD,Sim
+Rio de Janeiro,Sim,Sim,3,2,Sim,Sim,Medicina,Sim,frances,presencial,Sim
+Porto Alegre,Não,Não,1,1,Não,Não,Medicina,Sim,mandarim,presencial,Não
+Porto Alegre,Não,Não,3,0,Não,Sim,Engenharia Civil,Não,espanhol,semipresencial,Sim
+Rio de Janeiro,Sim,Não,2,1,Não,Sim,Engenharia Civil,Não,espanhol,semipresencial,Sim
+Recife,Sim,Sim,4,2,Não,Sim,Medicina,Sim,mandarim,EaD,Não
+Sao Paulo,Sim,Sim,4,0,Não,Sim,Ciencia da Computacao,Sim,ingles,presencial,Não
+Recife,Não,Não,3,0,Sim,Sim,Engenharia Civil,Não,mandarim,semipresencial,Sim
+Sao Paulo,Sim,Não,2,0,Não,Sim,Medicina,Sim,portugues,EaD,Sim
+Porto Alegre,Sim,Não,2,2,Sim,Sim,Direito,Não,espanhol,semipresencial,Não
+Rio de Janeiro,Sim,Não,2,2,Sim,Sim,Engenharia Civil,Não,mandarim,EaD,Sim
+Sao Paulo,Sim,Não,2,0,Não,Não,Direito,Não,mandarim,presencial,Não
+Brasilia,Não,Sim,0,1,Sim,Sim,Engenharia Civil,Sim,frances,presencial,Sim
+Rio de Janeiro,Sim,Sim,0,2,Sim,Não,Administracao,Não,espanhol,EaD,Não
+Salvador,Não,Sim,0,2,Sim,Não,Medicina,Sim,frances,semipresencial,Sim
+Sao Paulo,Não,Não,4,1,Não,Não,Direito,Sim,mandarim,EaD,Sim
+Recife,Sim,Não,1,0,Não,Sim,Direito,Sim,ingles,semipresencial,Sim
+Porto Alegre,Não,Não,0,0,Não,Não,Administracao,Sim,espanhol,semipresencial,Não
+Salvador,Não,Não,4,2,Sim,Não,Medicina,Não,ingles,semipresencial,Sim
+Recife,Não,Sim,3,1,Sim,Sim,Direito,Não,mandarim,semipresencial,Sim
+Recife,Não,Sim,0,2,Não,Não,Direito,Não,portugues,semipresencial,Sim
+Rio de Janeiro,Não,Sim,4,2,Não,Sim,Direito,Não,mandarim,presencial,Sim
+Salvador,Sim,Sim,2,1,Sim,Não,Administracao,Sim,espanhol,presencial,Sim
+Salvador,Sim,Sim,2,1,Sim,Não,Medicina,Sim,espanhol,presencial,Sim
+Sao Paulo,Não,Não,1,2,Sim,Sim,Medicina,Sim,espanhol,EaD,Sim
+Salvador,Não,Não,2,1,Não,Não,Medicina,Não,ingles,presencial,Sim
+Salvador,Não,Não,3,0,Não,Não,Direito,Não,ingles,presencial,Sim
+Brasilia,Não,Não,3,0,Sim,Sim,Ciencia da Computacao,Não,frances,presencial,Não
+Porto Alegre,Não,Não,2,1,Não,Sim,Administracao,Sim,portugues,EaD,Sim
+Rio de Janeiro,Não,Sim,2,1,Não,Sim,Direito,Não,portugues,semipresencial,Não
+Porto Alegre,Não,Sim,1,1,Sim,Sim,Direito,Sim,espanhol,presencial,Sim
+Sao Paulo,Não,Não,4,0,Não,Sim,Medicina,Não,frances,semipresencial,Não
+Porto Alegre,Não,Não,2,2,Sim,Não,Direito,Não,ingles,presencial,Não
+Brasilia,Não,Sim,3,0,Não,Sim,Engenharia Civil,Sim,portugues,semipresencial,Não
+Salvador,Não,Sim,4,0,Não,Sim,Administracao,Sim,ingles,semipresencial,Não
+Sao Paulo,Não,Não,2,2,Não,Sim,Ciencia da Computacao,Não,mandarim,presencial,Sim
+Recife,Não,Não,0,2,Não,Sim,Direito,Não,portugues,semipresencial,Sim
+Rio de Janeiro,Sim,Não,3,2,Não,Não,Engenharia Civil,Não,portugues,EaD,Sim
+Porto Alegre,Não,Não,4,1,Sim,Sim,Direito,Sim,frances,EaD,Não
+Recife,Sim,Sim,3,2,Não,Não,Ciencia da Computacao,Sim,mandarim,EaD,Não
+Brasilia,Sim,Não,4,0,Não,Não,Direito,Sim,mandarim,EaD,Não
+Brasilia,Sim,Sim,1,2,Sim,Sim,Ciencia da Computacao,Não,frances,semipresencial,Não
+Porto Alegre,Não,Não,0,2,Sim,Não,Medicina,Não,portugues,presencial,Sim
+Recife,Não,Não,4,2,Não,Sim,Ciencia da Computacao,Sim,portugues,semipresencial,Não
+Recife,Não,Sim,1,1,Não,Sim,Ciencia da Computacao,Não,ingles,presencial,Sim
+Brasilia,Sim,Sim,4,0,Não,Não,Direito,Não,frances,EaD,Não
+Sao Paulo,Não,Sim,3,2,Sim,Não,Administracao,Não,espanhol,semipresencial,Sim
+Brasilia,Sim,Sim,4,0,Sim,Sim,Medicina,Sim,espanhol,EaD,Não
+Rio de Janeiro,Não,Sim,2,1,Sim,Sim,Ciencia da Computacao,Sim,mandarim,semipresencial,Sim
+Porto Alegre,Não,Não,4,1,Não,Não,Direito,Não,espanhol,EaD,Sim
+Porto Alegre,Não,Não,3,1,Sim,Sim,Medicina,Não,frances,EaD,Sim
+Salvador,Sim,Não,2,2,Não,Sim,Direito,Não,mandarim,EaD,Sim
+Rio de Janeiro,Não,Não,4,0,Não,Sim,Administracao,Sim,portugues,semipresencial,Sim
+Rio de Janeiro,Sim,Sim,1,0,Sim,Sim,Medicina,Sim,espanhol,presencial,Sim
+Salvador,Sim,Sim,0,1,Não,Sim,Medicina,Sim,espanhol,presencial,Não
+Salvador,Não,Não,2,2,Não,Sim,Ciencia da Computacao,Não,espanhol,presencial,Sim
+Salvador,Não,Sim,4,1,Não,Sim,Administracao,Sim,portugues,presencial,Não
+Sao Paulo,Não,Sim,1,2,Sim,Não,Engenharia Civil,Sim,mandarim,semipresencial,Sim
+Recife,Não,Sim,0,2,Sim,Não,Engenharia Civil,Sim,portugues,semipresencial,Não
+Porto Alegre,Não,Sim,4,1,Sim,Não,Direito,Não,espanhol,presencial,Sim
+Brasilia,Não,Não,3,2,Sim,Sim,Engenharia Civil,Não,espanhol,EaD,Não
+Recife,Não,Sim,1,2,Não,Não,Engenharia Civil,Sim,ingles,EaD,Sim
+Porto Alegre,Não,Sim,3,1,Não,Não,Administracao,Não,ingles,presencial,Não
+Sao Paulo,Não,Não,0,0,Sim,Sim,Direito,Não,espanhol,EaD,Não
+Recife,Não,Não,3,0,Sim,Não,Ciencia da Computacao,Não,espanhol,presencial,Sim
+Recife,Não,Não,1,2,Sim,Sim,Engenharia Civil,Sim,ingles,presencial,Não
+Recife,Sim,Não,2,2,Sim,Não,Administracao,Não,ingles,semipresencial,Sim
+Salvador,Sim,Não,3,1,Não,Não,Direito,Sim,mandarim,presencial,Sim
+Salvador,Sim,Sim,3,2,Sim,Sim,Direito,Não,mandarim,semipresencial,Sim
+Salvador,Sim,Sim,4,2,Não,Sim,Engenharia Civil,Não,mandarim,semipresencial,Não
+Sao Paulo,Sim,Não,4,2,Sim,Sim,Engenharia Civil,Sim,portugues,presencial,Sim
+Recife,Não,Sim,3,0,Não,Não,Ciencia da Computacao,Sim,espanhol,presencial,Não
+Salvador,Não,Sim,4,2,Sim,Sim,Medicina,Sim,mandarim,presencial,Não
+Recife,Sim,Não,1,0,Sim,Sim,Direito,Não,frances,EaD,Sim
+Sao Paulo,Sim,Não,2,2,Sim,Sim,Administracao,Sim,ingles,semipresencial,Sim
+Recife,Não,Sim,3,0,Sim,Sim,Engenharia Civil,Não,espanhol,semipresencial,Sim
+Brasilia,Não,Sim,0,2,Não,Não,Administracao,Sim,frances,presencial,Sim
+Brasilia,Não,Sim,2,0,Sim,Sim,Medicina,Não,ingles,semipresencial,Sim
+Porto Alegre,Não,Sim,3,0,Sim,Não,Ciencia da Computacao,Não,espanhol,EaD,Não
+Salvador,Não,Sim,1,1,Não,Não,Engenharia Civil,Não,espanhol,EaD,Não
+Salvador,Não,Sim,1,2,Não,Não,Ciencia da Computacao,Sim,ingles,EaD,Sim
+Rio de Janeiro,Sim,Sim,0,1,Sim,Sim,Medicina,Não,mandarim,presencial,Sim
+Recife,Não,Sim,3,1,Não,Não,Ciencia da Computacao,Não,ingles,presencial,Não
+Sao Paulo,Não,Não,1,0,Não,Sim,Engenharia Civil,Sim,mandarim,semipresencial,Sim
+Sao Paulo,Sim,Sim,2,2,Não,Sim,Direito,Não,frances,semipresencial,Sim
+Recife,Não,Sim,4,2,Não,Não,Medicina,Sim,espanhol,presencial,Sim
+Sao Paulo,Sim,Sim,3,0,Não,Sim,Administracao,Sim,ingles,EaD,Não
+Salvador,Sim,Não,0,2,Não,Sim,Direito,Sim,portugues,presencial,Não
+Porto Alegre,Sim,Não,2,1,Não,Não,Medicina,Não,espanhol,presencial,Sim
+Brasilia,Não,Não,0,0,Não,Não,Administracao,Sim,portugues,semipresencial,Não
+Recife,Sim,Sim,4,1,Sim,Não,Engenharia Civil,Não,espanhol,EaD,Não
+Sao Paulo,Não,Não,0,0,Sim,Não,Administracao,Não,mandarim,EaD,Não
+Rio de Janeiro,Sim,Não,0,2,Sim,Não,Ciencia da Computacao,Não,espanhol,EaD,Sim
+Porto Alegre,Não,Não,2,2,Sim,Não,Direito,Sim,portugues,semipresencial,Não
+Brasilia,Não,Sim,0,0,Sim,Sim,Direito,Não,ingles,semipresencial,Não
+Brasilia,Sim,Não,2,1,Não,Não,Engenharia Civil,Sim,portugues,semipresencial,Não
+Brasilia,Sim,Sim,0,0,Não,Não,Direito,Não,espanhol,EaD,Não
+Sao Paulo,Não,Não,2,2,Não,Sim,Engenharia Civil,Não,portugues,presencial,Sim
+Brasilia,Não,Sim,2,2,Sim,Sim,Direito,Não,espanhol,semipresencial,Sim
+Sao Paulo,Sim,Não,0,2,Não,Sim,Engenharia Civil,Não,frances,presencial,Sim
+Brasilia,Sim,Não,4,0,Sim,Não,Ciencia da Computacao,Sim,mandarim,EaD,Não
+Brasilia,Sim,Sim,1,2,Não,Não,Engenharia Civil,Sim,mandarim,presencial,Não
+Rio de Janeiro,Não,Sim,3,1,Sim,Sim,Direito,Sim,mandarim,semipresencial,Não
+Recife,Não,Sim,1,0,Sim,Não,Direito,Sim,mandarim,semipresencial,Sim
+Rio de Janeiro,Sim,Não,0,1,Sim,Não,Direito,Sim,frances,presencial,Não
+Salvador,Não,Sim,4,0,Sim,Não,Medicina,Sim,espanhol,presencial,Sim
+Brasilia,Sim,Sim,3,0,Não,Não,Administracao,Não,ingles,EaD,Sim
+Rio de Janeiro,Sim,Sim,0,0,Não,Não,Direito,Não,mandarim,EaD,Sim
+Porto Alegre,Sim,Sim,4,0,Sim,Sim,Engenharia Civil,Sim,espanhol,EaD,Não
+Brasilia,Sim,Não,1,0,Sim,Não,Engenharia Civil,Sim,ingles,semipresencial,Sim
+Recife,Não,Sim,3,0,Sim,Não,Engenharia Civil,Sim,ingles,presencial,Sim
+Rio de Janeiro,Não,Sim,1,1,Sim,Sim,Direito,Não,espanhol,semipresencial,Não
+Brasilia,Sim,Sim,4,0,Não,Sim,Administracao,Não,portugues,presencial,Sim
+Recife,Não,Sim,0,0,Sim,Não,Medicina,Não,ingles,semipresencial,Sim
+Salvador,Não,Sim,2,1,Não,Não,Engenharia Civil,Sim,mandarim,EaD,Sim
+Rio de Janeiro,Não,Sim,3,0,Não,Não,Engenharia Civil,Sim,ingles,semipresencial,Não
+Salvador,Sim,Não,4,0,Sim,Não,Engenharia Civil,Não,portugues,EaD,Não
+Salvador,Sim,Não,3,2,Sim,Não,Ciencia da Computacao,Não,ingles,EaD,Sim
+Recife,Não,Sim,4,0,Sim,Não,Administracao,Não,ingles,semipresencial,Sim
+Recife,Sim,Sim,1,2,Sim,Sim,Administracao,Sim,frances,presencial,Sim
+Sao Paulo,Sim,Sim,4,0,Não,Não,Direito,Sim,espanhol,presencial,Não
+Porto Alegre,Não,Não,0,0,Não,Sim,Administracao,Não,frances,presencial,Não
+Sao Paulo,Sim,Sim,1,0,Não,Sim,Direito,Não,espanhol,semipresencial,Sim
+Brasilia,Sim,Não,1,1,Sim,Não,Medicina,Sim,portugues,semipresencial,Não
+Salvador,Sim,Sim,4,1,Sim,Não,Direito,Não,mandarim,presencial,Não
+Sao Paulo,Sim,Não,4,0,Não,Sim,Medicina,Sim,ingles,EaD,Sim
+Sao Paulo,Não,Não,1,0,Sim,Sim,Direito,Não,espanhol,presencial,Sim
+Salvador,Não,Não,4,0,Não,Não,Ciencia da Computacao,Sim,espanhol,presencial,Sim
+Sao Paulo,Não,Não,4,0,Não,Não,Medicina,Não,mandarim,presencial,Não
+Sao Paulo,Sim,Sim,0,0,Não,Não,Medicina,Sim,frances,semipresencial,Não
+Porto Alegre,Sim,Sim,3,1,Sim,Não,Engenharia Civil,Não,espanhol,EaD,Não
+Recife,Sim,Não,2,0,Não,Sim,Direito,Sim,portugues,presencial,Não
+Porto Alegre,Não,Não,2,1,Sim,Não,Medicina,Não,frances,EaD,Sim
+Salvador,Não,Sim,3,0,Não,Sim,Direito,Não,ingles,presencial,Sim
+Porto Alegre,Não,Sim,4,0,Sim,Não,Engenharia Civil,Não,mandarim,EaD,Sim
+Porto Alegre,Não,Sim,4,0,Não,Sim,Engenharia Civil,Não,portugues,EaD,Sim
+Rio de Janeiro,Sim,Sim,4,2,Não,Sim,Medicina,Sim,mandarim,presencial,Não
+Rio de Janeiro,Não,Não,0,0,Sim,Não,Direito,Sim,mandarim,EaD,Sim
+Rio de Janeiro,Sim,Não,0,2,Sim,Sim,Medicina,Sim,portugues,semipresencial,Não
+Porto Alegre,Não,Não,1,0,Não,Sim,Medicina,Sim,mandarim,semipresencial,Sim
+Rio de Janeiro,Sim,Não,4,1,Não,Não,Ciencia da Computacao,Não,frances,presencial,Não
+Rio de Janeiro,Não,Não,3,0,Sim,Não,Medicina,Sim,espanhol,presencial,Sim
+Brasilia,Sim,Não,1,1,Não,Sim,Direito,Não,ingles,presencial,Sim
+Recife,Não,Não,4,1,Sim,Não,Ciencia da Computacao,Não,espanhol,presencial,Sim
+Salvador,Sim,Sim,0,0,Não,Sim,Direito,Sim,frances,EaD,Sim
+Brasilia,Não,Não,4,2,Sim,Sim,Administracao,Sim,ingles,presencial,Sim
+Brasilia,Não,Não,0,2,Sim,Sim,Engenharia Civil,Sim,mandarim,EaD,Não
+Rio de Janeiro,Sim,Não,4,2,Sim,Sim,Medicina,Sim,mandarim,presencial,Sim
+Recife,Sim,Sim,3,0,Sim,Não,Engenharia Civil,Não,frances,presencial,Não
+Salvador,Não,Sim,2,2,Sim,Não,Direito,Sim,ingles,semipresencial,Sim
+Sao Paulo,Sim,Não,4,2,Não,Não,Ciencia da Computacao,Não,portugues,presencial,Sim
+Sao Paulo,Não,Sim,4,2,Não,Sim,Engenharia Civil,Não,espanhol,presencial,Sim
+Porto Alegre,Não,Não,4,0,Não,Não,Ciencia da Computacao,Não,espanhol,semipresencial,Não
+Recife,Não,Não,1,1,Sim,Não,Administracao,Sim,frances,semipresencial,Não
+Rio de Janeiro,Sim,Não,4,1,Sim,Sim,Administracao,Não,frances,EaD,Sim
+Sao Paulo,Não,Não,2,1,Não,Sim,Administracao,Não,frances,EaD,Não
+Sao Paulo,Não,Não,1,0,Sim,Não,Ciencia da Computacao,Não,portugues,semipresencial,Sim
+Salvador,Não,Sim,0,2,Sim,Sim,Direito,Não,frances,semipresencial,Sim
+Salvador,Sim,Não,2,1,Não,Sim,Medicina,Sim,espanhol,presencial,Não
+Salvador,Não,Não,1,0,Sim,Não,Ciencia da Computacao,Não,ingles,semipresencial,Não
+Porto Alegre,Não,Não,2,0,Não,Sim,Ciencia da Computacao,Sim,espanhol,EaD,Não
+Brasilia,Não,Não,2,2,Não,Não,Ciencia da Computacao,Não,portugues,EaD,Não
+Sao Paulo,Sim,Sim,1,2,Sim,Não,Medicina,Não,frances,EaD,Sim
+Sao Paulo,Não,Não,0,2,Não,Sim,Administracao,Não,portugues,EaD,Sim
+Sao Paulo,Não,Sim,1,2,Não,Não,Medicina,Não,espanhol,presencial,Sim
+Recife,Não,Não,2,1,Sim,Sim,Medicina,Não,portugues,EaD,Sim
+Porto Alegre,Não,Não,1,0,Sim,Sim,Medicina,Não,frances,presencial,Sim
+Recife,Não,Não,3,1,Não,Não,Administracao,Sim,ingles,presencial,Sim
+Rio de Janeiro,Sim,Sim,0,0,Não,Sim,Direito,Sim,portugues,presencial,Sim
+Sao Paulo,Não,Não,4,1,Sim,Não,Medicina,Sim,espanhol,EaD,Não
+Salvador,Não,Sim,3,1,Não,Sim,Ciencia da Computacao,Não,mandarim,EaD,Não
+Porto Alegre,Não,Não,3,1,Sim,Sim,Medicina,Sim,espanhol,semipresencial,Não
+Recife,Sim,Não,0,2,Sim,Não,Administracao,Sim,portugues,presencial,Não
+Brasilia,Não,Sim,3,1,Sim,Não,Administracao,Sim,ingles,presencial,Não
+Porto Alegre,Sim,Não,4,2,Sim,Sim,Medicina,Sim,mandarim,semipresencial,Não
+Salvador,Sim,Sim,0,1,Não,Sim,Medicina,Sim,espanhol,semipresencial,Sim
+Rio de Janeiro,Sim,Sim,4,0,Sim,Sim,Ciencia da Computacao,Sim,espanhol,EaD,Sim
+Porto Alegre,Não,Não,4,2,Sim,Não,Ciencia da Computacao,Sim,mandarim,semipresencial,Não
+Recife,Sim,Sim,1,1,Sim,Sim,Ciencia da Computacao,Não,portugues,semipresencial,Sim
+Salvador,Não,Não,1,2,Sim,Sim,Medicina,Sim,frances,EaD,Não
+Sao Paulo,Sim,Sim,4,1,Não,Não,Engenharia Civil,Não,espanhol,presencial,Não
+Brasilia,Sim,Não,2,0,Sim,Sim,Engenharia Civil,Sim,espanhol,presencial,Não
+Recife,Não,Não,2,2,Sim,Não,Engenharia Civil,Não,portugues,EaD,Não
+Recife,Sim,Não,2,1,Sim,Sim,Engenharia Civil,Sim,espanhol,EaD,Não
+Salvador,Sim,Não,1,2,Sim,Não,Ciencia da Computacao,Sim,espanhol,presencial,Sim
+Recife,Não,Não,1,1,Sim,Sim,Direito,Não,mandarim,semipresencial,Sim
+Salvador,Não,Sim,3,2,Não,Sim,Direito,Não,mandarim,EaD,Sim
+Salvador,Não,Sim,1,0,Não,Sim,Administracao,Sim,frances,semipresencial,Sim
+Brasilia,Sim,Não,2,2,Não,Sim,Direito,Não,mandarim,semipresencial,Sim
+Rio de Janeiro,Não,Sim,4,1,Não,Não,Ciencia da Computacao,Não,ingles,EaD,Não
+Salvador,Não,Sim,4,1,Sim,Sim,Ciencia da Computacao,Sim,espanhol,EaD,Não
+Sao Paulo,Sim,Sim,3,2,Não,Não,Direito,Sim,espanhol,EaD,Não
+Sao Paulo,Sim,Não,4,0,Sim,Não,Engenharia Civil,Sim,mandarim,semipresencial,Sim
+Rio de Janeiro,Sim,Não,1,2,Não,Não,Ciencia da Computacao,Não,mandarim,presencial,Sim
+Sao Paulo,Sim,Não,3,2,Sim,Não,Direito,Não,mandarim,semipresencial,Sim
+Sao Paulo,Não,Não,1,0,Sim,Sim,Medicina,Não,frances,presencial,Sim
+Porto Alegre,Não,Sim,4,0,Sim,Sim,Medicina,Sim,espanhol,EaD,Não
+Sao Paulo,Sim,Não,4,1,Não,Sim,Ciencia da Computacao,Não,frances,presencial,Não
+Recife,Não,Sim,3,1,Não,Não,Medicina,Não,espanhol,EaD,Sim
+Sao Paulo,Sim,Não,3,1,Sim,Não,Engenharia Civil,Sim,espanhol,semipresencial,Sim
+Salvador,Sim,Sim,0,1,Sim,Sim,Medicina,Sim,espanhol,semipresencial,Sim
+Salvador,Não,Sim,4,0,Sim,Sim,Ciencia da Computacao,Não,frances,semipresencial,Sim
